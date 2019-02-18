@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\app\my program\pong_game\pong_game\main.cpp(127): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Pong_game.vcxproj -> D:\App\My program\Pong_game\Debug\Pong_game.exe
